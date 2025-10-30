@@ -10,8 +10,7 @@ This growth indicates increased trade activity and higher demand for imported go
 However, it has become challenging to identify the **top contributing countries**, **key commodities**, and **yearly trends**, which makes it difficult to evaluate trade performance and improve import sources.
 
 
-##Dashboard 
-![Dashboard Screenshot](images/dashboard.png)
+## Dashboard 
 
 
 
