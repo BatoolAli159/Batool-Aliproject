@@ -10,6 +10,11 @@ This growth indicates increased trade activity and higher demand for imported go
 However, it has become challenging to identify the **top contributing countries**, **key commodities**, and **yearly trends**, which makes it difficult to evaluate trade performance and improve import sources.
 
 
+##Dashboard 
+![Dashboard Screenshot](images/dashboard.png)
+
+
+
 ## Insights and Findings
 1. Bahrain’s total imports have shown **strong growth between 2022 and 2023**, reaching their peak in 2023–2024.  
 2. **Teabags and roasted coffee** represent the largest share of total import value, reflecting high consumer demand in the local market.  
