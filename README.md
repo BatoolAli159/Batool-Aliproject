@@ -11,7 +11,7 @@ However, it has become challenging to identify the **top contributing countries*
 
 
 ## Dashboard 
-https://github.com/BatoolAli159/Batool-Aliproject/blob/90c3348e1f0a811a875ccbc9800cf00a52015eaf/Dashboard%20.png
+![image alt](https://github.com/BatoolAli159/Batool-Aliproject/blob/90c3348e1f0a811a875ccbc9800cf00a52015eaf/Dashboard%20.png)
 
 
 ## Insights and Findings
